@@ -33,6 +33,18 @@
        integrate pr click krdiya.
 
 =====> Directly ap git mai commit krnge.
+
+
+=====>maine ye likha fr commit kiya
+print("CETPA")
+
+print("HELLO")
+
+=====>maine fr ye likha fr se commit kiya
+print("Welcome")
+
+print("Bye")
+
 """
 
 
@@ -42,3 +54,8 @@
 print("CETPA")
 
 print("HELLO")
+
+
+print("Welcome")
+
+print("Bye")
